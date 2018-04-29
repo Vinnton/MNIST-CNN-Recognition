@@ -1,0 +1,1 @@
+This project is a basic realization of CNN using two convolutional modules and two dense layer to classify every digit into class 0 - 9.
